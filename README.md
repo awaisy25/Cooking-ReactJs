@@ -1,7 +1,7 @@
 ## OverView
 Application built off of React JS to help visualize how the cost of cooking a meal based on the ingredients. This project uses self set data in Data folder. Each data is an array of Objects, the object design is in data model folder. Feel free to change and play around with the data 
 
-## Load modules
+## Load Modules
 <b>npm install</b>
 
 ## Available Scripts
