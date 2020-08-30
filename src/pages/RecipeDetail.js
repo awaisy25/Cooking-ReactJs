@@ -39,7 +39,7 @@ export default function RecipeDetailPage() {
     <div>
         <h1>{recipeFound.title}</h1>
             <div className="TopShelf" >
-            <img src={recipeFound.image} id="ProfileImage" alt="" />
+            <img src={recipeFound.image} style={styles.image} alt="" />
             
             <ul>
             <h2>Ingredients:</h2>

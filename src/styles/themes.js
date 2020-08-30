@@ -73,5 +73,10 @@ export const styles = {
         color:"#76ff03",
         fontSize: "115%"
     },
+    image: {
+        height: "45%",
+        width: "35%",
+        border: "2px solid black"
+    }
 }
 
