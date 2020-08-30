@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+}
+//setting link  style after hovering so people can click
+a:hover h2:hover{
+    text-decoration: underline;
+    color: red;
+}
+h2 {
+    color: black;
+}
+
+.backbutton {
+    //same as theme color
+    background-color: #009688;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding: 10px 17px;
+    border-radius: 10px;
+}
+
