@@ -10,7 +10,7 @@ const RecipeCard = props => {
     const imageUrl = props.url;
     const title = props.title;
     const routeId = props.routeId;
-    const cost = "";
+    const cost = props.cost;
 
     //react state hook for changing the css when someone hover overs the recipe card
     const [HoverStyle, onHover] = useState(styles.card);
